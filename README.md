@@ -44,5 +44,5 @@ in one hour, but generally only with practice.  When implementing the Game of
 Life in an interview please emphasize code quality, testing (TDD,
 Red-Green-Refactor, etc.) and please articulate your thinking as you go.
 
-This is a pairing exercise so your interviewee is your pair - treat them as
+This is a pairing exercise so your interviewer is your pair - treat them as
 such.  Ask questions.  Bounce ideas off of them, etc.
